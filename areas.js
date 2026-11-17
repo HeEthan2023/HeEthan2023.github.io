@@ -1,7 +1,6 @@
 window.AREA_CONFIG = {
   mergeUnlockedAreas: false,
   areas: [
-    // Original & West/North Yorkshire / Greater Manchester
     { id: 'Barnsley', number: 1, name: 'Barnsley', latitude: 53.552583, longitude: -1.479778, unlockStars: 0 },
     { id: 'Sheffield', number: 2, name: 'Sheffield', latitude: 53.407655, longitude: -1.479778, unlockStars: 3 },
     { id: 'Chesterfield', number: 3, name: 'Chesterfield', latitude: 53.2637, longitude: -1.479778, unlockStars: 6 },
